@@ -1,0 +1,5 @@
+numero1= int(input('Vamos fazer uma continha, diga um número: '))
+numero2= int(input('Show, agora mais um: '))
+numero3= int(input('O último: '))
+soma= (numero1+ numero2 + numero3)
+print(f'o valor total é {soma}')
